@@ -1,4 +1,4 @@
-baseURL = 'https://devab-xyz.github.io/website'
+baseURL = 'http://devab.xyz'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
